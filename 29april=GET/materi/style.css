@@ -1,0 +1,20 @@
+.jumbotron {
+    background-image: url(skl.jpg);
+    background-size: cover;
+    height: 580px;
+}
+
+.display-4 {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.lead {
+    color: peru;
+}
+
+.btn {
+    height: 100px;
+    width: 400px;
+    font-size: x-large;
+    text-decoration: none;
+}
